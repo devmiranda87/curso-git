@@ -5,3 +5,7 @@
 .nav-secondary {
     background-color: antiquewhite;
 }
+
+.dashed {
+    border: 1x dashed red;
+}
